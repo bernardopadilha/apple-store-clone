@@ -5,20 +5,25 @@ const Footer = () => {
     <footer className="py-5 sm:px-10 px-5">
       <div className="screen-max-width">
         <div>
-          <p className="font-semibold text-gray text-xs">
-            More ways to shop:
+          <p className="font-semibold text-gray ">
+            Este site foi feito por:
             <span className="underline text-blue">
-              {' '} Find an Apple Store {' '}
+              {' '} Bernardo Alves Padilha {' '}
             </span>
-            or
+            <br />
+            Linkedin:
             <span className="underline text-blue">
-              {' '} other retailer {' '}
+              {' '} https://www.linkedin.com/in/bernardo-alves-padilha-8474a3232/ {' '}
             </span>
-            near you.
+            <br />
+            E-mail:
+            <span className="underline text-blue">
+              {' '}bernardoa.padilha@gmail.com {' '}
+            </span>
           </p>
 
-          <p className="font-semibold text-gray text-xs">
-            Or call (48) 99158-3678
+          <p className="font-semibold text-gray">
+            Ou ligue (48) 99158-3678.
           </p>
         </div>
 

@@ -17,6 +17,8 @@ const Navbar = () => {
           ))}
         </div>
 
+        <h1 className='text-lg font-semibold text-red-500 ml-12 sm:ml-0 sm:mr-4'>ESTE SITE SERVE APENAS PARA ESTUDOS</h1>
+
         <div className="flex items-baseline gap-7 max-sm:justify-end max-sm:flex-1">
           <img src={searchImg} alt="search" width={18} height={18} />
           <img src={bagImg} alt="bag" width={18} height={18} />

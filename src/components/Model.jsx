@@ -16,7 +16,7 @@ import { animatedWithGsapTimeline } from '../utils/animations'
 const Model = () => {
   const [size, setSize] = useState('small')
   const [model, setModel] = useState({
-    title: 'iPhone 15 Pro in Natural Titanium',
+    title: 'iPhone 15 Pro em titânio natural',
     color: ['#8F8A81', '#FFE7B9', '#6F6C64'],
     img: yellowImg,
   })
@@ -59,7 +59,7 @@ const Model = () => {
     <section className="common-padding">
       <div className="screen-max-width">
         <h1 id="heading" className="section-heading">
-          Take a closer look.
+        Olhe mais de perto.
         </h1>
 
         <div className="flex flex-col items-center mt-5">

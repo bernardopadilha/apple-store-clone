@@ -39,11 +39,12 @@ const HowItWorks = () => {
         <div className="flex flex-col items-center">
           <h2 className="hiw-title">
             A17 Pro chip.
-            <br /> A monster win for gaming.
+            <br /> 
+            Uma vitória monstruosa para jogos.
           </h2>
 
           <p className="hiw-subtitle">
-            It's here. The biggest redesign in the history of Apple GPUs.
+            Está aqui. A maior reformulação da história das GPUs da Apple.
           </p>
         </div>
 
@@ -68,26 +69,26 @@ const HowItWorks = () => {
           <div className="hiw-text-container">
                 <div className="flex flex-1 justify-center flex-col">
                   <p className="hiw-text g_fadeIn">
-                    A17 Pro is an entirely new class of iPhone chip that delivers our {' '}
+                    A17 Pro é uma classe totalmente nova de chip para iPhone que oferece nosso {' '}
                     <span className="text-white">
-                      best graphic performance by far
+                      melhor desempenho gráfico de longe
                     </span>.
                   </p>
 
                   <p className="hiw-text g_fadeIn">
-                   Mobile {' '}
+                   Jogos {' '}
                     <span className="text-white">
-                      games will look and feel so immersive
+                      mobile parecerá e será tão envolvente
                     </span>,
-                     with incredibly detailed environments and characters.
+                      com ambientes e personagens incrivelmente detalhados.
                   </p>
                 </div>
               
 
               <div className="flex-1 flex justify-center flex-col g_fadeIn">
-                <p className="hiw-text">New</p>
+                <p className="hiw-text">Novo</p>
                 <p className="hiw-bigtext">Pro-class GPU</p>
-                <p className="hiw-text">with 6 cores</p>
+                <p className="hiw-text">com 6 núcleos</p>
               </div>
               </div>
             </div>
